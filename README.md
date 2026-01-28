@@ -8,7 +8,7 @@ Implement Consulting Group is a leading consultancy firm expanding into digital 
 
 ## Get in Touch
 
-For more information about Implement Consulting Group, visit our main website or reach out to our development team.
+For more information about Implement Consulting Group and our development initiatives, please visit [implement.dk](https://implement.dk) or connect with us here on GitHub.
 
 ---
 
